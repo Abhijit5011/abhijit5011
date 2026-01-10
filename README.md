@@ -74,7 +74,7 @@ Rajarambapu Institute of Technology, Islampur
 ---
 ## 🚀 Projects (Progressive Learning Path)
 
-### 📘 CO Attainment Calculation System 
+### 📘 1. CO Attainment Calculation System 
 A large-scale academic platform designed to **automate Course Outcome (CO) attainment calculation** for **MSBTE diploma institutes across Maharashtra**.
 
 This system aims to serve **faculty members Maharashtra wide**, simplifying CO–PO mapping, attainment calculations, and report generation required for **academic audits and quality assurance**.
@@ -97,7 +97,7 @@ This system aims to serve **faculty members Maharashtra wide**, simplifying CO�
 
 ---
 
-### 🤖 Yatra AI – Tourism Recommendation System  
+### 🤖 2. Yatra AI – Tourism Recommendation System  
 An intelligent **AI-powered tourism recommendation platform** that suggests travel destinations based on **user interests, budget, location, number of days, and group type**.
 
 The system generates **personalized, day-wise travel itineraries**, helping users plan trips efficiently without manual research.
@@ -113,7 +113,24 @@ The system generates **personalized, day-wise travel itineraries**, helping user
 
 ---
 
-### 🌸 Pushpa Market – Flower Selling Platform  
+### 🛒 3. Campus Cart – College Marketplace Platform  
+A full-stack **campus marketplace platform** developed to solve the problem of **buying and selling items within a college community**.
+
+The system allows students to securely trade products such as books, gadgets, and daily-use items without relying on external platforms.
+
+- Student-to-student buying and selling within campus  
+- Secure user authentication and role management  
+- Admin panel for moderation and control  
+- Product listings with search and filtering  
+- Messaging system for buyer–seller communication  
+- Fully responsive design for mobile and desktop  
+
+🔗 **Live:** http://campuscart.page.gd  
+
+**Tech:** PHP, MySQL, Bootstrap, HTML, CSS, JavaScript  
+
+
+### 🌸 4. Pushpa Market – Flower Selling Platform  
 A role-based **flower selling and management platform** designed to connect **customers, florists, and administrators** in a single system.
 
 The platform simplifies product management and order handling while offering a smooth and responsive user experience.
@@ -129,8 +146,15 @@ The platform simplifies product management and order handling while offering a s
 
 ---
 
-### 🧽 Scrubbers Sales & Expense Management System  
-Business-oriented system for tracking **sales, expenses, and financial reports**.
+### 🧽 5. Scrubbers Sales & Expense Management System  
+A custom-built business management system developed **for my father’s stainless steel scrubber business** to digitize daily operations.
+
+The system helps track **sales, expenses, and profit reports**, providing better financial visibility and reducing manual bookkeeping.
+
+- Daily sales and expense tracking  
+- Monthly and yearly financial reports  
+- Simple, business-friendly interface  
+- Improved accuracy and transparency in records  
 
 🔗 **Live:** https://scrubbers-sales-management.onrender.com/  
 
@@ -138,8 +162,10 @@ Business-oriented system for tracking **sales, expenses, and financial reports**
 
 ---
 
-### 📅 CS–IT Timetable Management App  
-A simple timetable system where **students can view schedules** and **faculty can update them online**.
+### 📅 6. CS–IT Timetable Management App  
+A web-based timetable management system developed **for the CS & IT departments of Rajarambapu Institute of Technology (RIT), Islampur**.
+
+The system enables **students to view updated timetables online** and **faculty to manage and update schedules**, reducing confusion and dependency on printed notices.
 
 🔗 **Live:** http://timetablecsit.ct.ws/  
 
@@ -147,7 +173,7 @@ A simple timetable system where **students can view schedules** and **faculty ca
 
 ---
 
-### 💬 WhatsApp Clone (Android)  
+### 💬 7. WhatsApp Clone (Android)  
 Android chat application clone focused on **UI design and user authentication**.
 
 **Tech:** Java, Android, Firebase  
