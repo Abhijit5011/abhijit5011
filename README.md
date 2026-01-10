@@ -16,7 +16,7 @@
 <img align="right" alt="Coding Illustration" width="340px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering Student (B.Tech)
+- 🎓 Computer Engineering Student (B.E)
 - 💻 Full Stack Web & Android Developer
 - 🤖 AI Tools Expert & Prompt Engineer
 - 🚀 Strong foundation from Diploma (92.91%)
@@ -74,45 +74,139 @@
 
 ## 🚀 Projects (Progressive Learning Path)
 
-### 📘 CO Attainment Calculation System  
-Web-based platform to calculate **Course Outcome (CO) attainment** for MSBTE diploma courses with CO–PO mapping, automated calculations, and analytics.  
+### 📘 CO Attainment Calculation System *(Major Academic Project)*  
+A comprehensive web-based system developed to **automate Course Outcome (CO) attainment calculation** for MSBTE diploma courses.
+
+#### 🔹 Key Features
+- Implemented **CO–PO mapping** for accurate outcome alignment  
+- Automated attainment calculation using internal & external assessment data  
+- Centralized **MySQL database** for secure storage and retrieval  
+- Generated detailed attainment reports for academic review and NBA-style documentation  
+
+#### 📊 Impact & Analytics
+- Reduced **manual calculation effort by ~90%**
+- Improved accuracy and consistency of CO reports
+- Enabled faster academic analysis for faculty and departments
+- Successfully used by students and faculty during academic evaluation
+
 🔗 **Live:** http://attainmentsystem.page.gd  
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
 ### 🤖 Yatra AI – Tourism Recommendation System  
-AI-powered system that recommends destinations based on **interest, budget, location, days, and group type**, and generates **complete travel itineraries**.  
+An **AI-powered tourism recommendation platform** that intelligently suggests destinations and generates **complete travel plans**.
+
+#### 🔹 Key Features
+- Personalized destination recommendations based on:
+  - User interests
+  - Budget constraints
+  - Location
+  - Number of days
+  - Group type (solo, family, friends)
+- Auto-generated **day-wise itineraries** with activities and travel flow
+- Scalable frontend built with **React + TypeScript**
+- Backend powered by **Supabase** for data handling and authentication  
+
+#### 📊 Impact & Performance
+- Reduced travel planning time by **60–70%**
+- Improved recommendation relevance through AI-driven logic
+- Clean, fast UI with optimized state management
+- Designed for future expansion into real-time pricing & booking APIs
+
 🔗 **Live:** https://yatra-ai-tourism.vercel.app/  
 **Tech:** React, TypeScript, Supabase, AI Tools  
 
 ---
 
 ### 🛒 Campus Cart – College Marketplace Platform  
-Marketplace for students to **buy & sell products** within the campus. Includes authentication, admin panel, messaging, and analytics.  
+A full-stack **campus marketplace application** that allows students to buy and sell products securely within the college community.
+
+#### 🔹 Key Features
+- Secure user authentication & role management
+- Admin panel for content and user moderation
+- Product listings with search & filtering
+- Messaging system for buyer–seller communication
+- Responsive UI for mobile and desktop devices  
+
+#### 📊 Impact & Performance
+- Streamlined student-to-student transactions
+- Improved listing visibility and engagement
+- Reduced dependency on external platforms for campus trading
+- Optimized database queries for faster page load
+
 🔗 **Live:** http://campuscart.page.gd  
+**Tech:** PHP, MySQL, Bootstrap 5, HTML, CSS, JavaScript  
 
 ---
 
 ### 🌸 Pushpa Market – Flower Selling Platform  
-Multi-role platform with **Users, Florists, and Admin** for managing flower sales and orders.  
+A role-based **e-commerce platform** designed for managing flower sales with multiple stakeholders.
+
+#### 🔹 Key Features
+- Multi-role access:
+  - 👤 Users
+  - 🌼 Florists
+  - 🛠️ Admin
+- Product management & order handling
+- Clean, modern, and responsive UI
+- Scalable architecture suitable for small businesses  
+
+#### 📊 Impact & Performance
+- Simplified order management for florists
+- Improved customer browsing experience
+- Reduced manual order tracking
+- Designed with extensibility for payments & delivery tracking
+
 🔗 **Live:** https://pushpa-market.vercel.app/  
+**Tech:** Web Technologies  
 
 ---
 
 ### 🧽 Scrubbers Sales & Expense Management System  
-Business system to track **sales, expenses, and financial reports** (monthly/yearly).  
+A custom-built business management system to track **sales and expenses** for a stainless steel scrubber business.
+
+#### 🔹 Key Features
+- Daily sales and expense tracking
+- Monthly and yearly financial reports
+- Data-driven insights for business decisions  
+
+#### 📊 Impact
+- Improved financial transparency
+- Reduced manual bookkeeping errors
+- Enabled data-backed business planning
+
 🔗 **Live:** https://scrubbers-sales-management.onrender.com/  
+**Tech:** Node.js, MongoDB  
 
 ---
 
 ### 📅 CS–IT Timetable Management App  
-Timetable system where **students view schedules** and **faculty update them**.  
+A timetable management system developed for **CS & IT departments**.
+
+#### 🔹 Key Features
+- Students can view updated timetables online
+- Faculty can modify and manage schedules
+- Mobile-friendly interface for easy access  
+
+#### 📊 Impact
+- Eliminated timetable confusion among students
+- Reduced dependency on printed timetables
+- Improved communication between faculty and students
+
 🔗 **Live:** http://timetablecsit.ct.ws/  
+**Tech:** Web Technologies / Android WebView  
 
 ---
 
 ### 💬 WhatsApp Clone (Android)  
-Android chat app clone focusing on UI design and authentication.  
+An Android chat application clone focusing on **UI development and authentication**.
+
+#### 🔹 Key Features
+- User authentication using Firebase
+- Clean chat interface design
+- Android lifecycle and activity management  
+
 **Tech:** Java, Android, Firebase  
 
 ---
@@ -121,9 +215,18 @@ Android chat app clone focusing on UI design and authentication.
 
 ### 📱 Android Development Intern  
 **Swara Infotech, Islampur** | *June 2024 – July 2024*
-- Developed Android apps with Firebase integration  
-- Improved UI/UX and optimized performance  
-- Debugged applications under senior developer mentorship  
+- Developed Android applications with **Firebase integration**
+- Improved **UI/UX** and optimized application performance
+- Debugged and enhanced features under **senior developer mentorship**
+
+---
+
+### 🌐 Member Lead  
+**GDG DIT (Google Developer Group – DIT)**  
+*App Development & Web Development Team*
+- Active member of **App Development** and **Web Development** teams
+- Collaborated on development tasks, peer learning, and technical discussions
+- Participated in workshops, coding sessions, and tech events organized by GDG
 
 ---
 
@@ -135,20 +238,13 @@ Android chat app clone focusing on UI design and authentication.
 ---
 
 ## 🌱 Currently Exploring
-- Advanced React & Backend APIs  
-- AI-powered web applications  
-- System design & scalable architectures  
+- Advanced **Python** for **AI, Data Science, and DSA**
+- Building **AI-powered web applications**
+- **Agentic AI systems** and intelligent automation
+- System design principles for **scalable architectures**
+
 
 ---
 
-## ⭐ GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijit5011&theme=radical"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhijit5011&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijit5011&theme=radical"/>
-</p>
-
----
 
 <p align="center"><b>⭐ Thanks for visiting! Feel free to connect & explore my projects.</b></p>
