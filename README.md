@@ -10,11 +10,6 @@
 
 ---
 
-## 🎯 Objective
-
-Computer Engineering student with a **strong diploma foundation (92.91%)** and **hands-on project experience** in web and Android development.  
-Skilled in building **efficient, scalable, and user-friendly applications**.  
-Eager to apply technical expertise in **software development** to deliver impactful, real-world solutions.
 
 ---
 
@@ -31,59 +26,106 @@ Eager to apply technical expertise in **software development** to deliver impact
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Expertise
 
+### 💻 Technical Skills
+- **Programming:** C++, Java, Python  
+- **Frontend:** HTML, CSS, JavaScript, **React**  
+- **Backend:** PHP, **Node.js**  
+- **Databases:** MySQL, MongoDB, Firebase, **Supabase**  
+- **Mobile:** Android (Java), WebView, TWA  
+- **Tools:** Git, GitHub, Android Studio, VS Code  
 
-::contentReference[oaicite:0]{index=0}
+### 🤖 AI Skills
+- **AI Tools Expert**
+- Prompt Engineering
+- AI-based Recommendation Systems
+- AI-assisted Planning & Automation
 
-
-**Programming:** C++, Java, Python  
-**Web Development:** HTML, CSS, JavaScript, PHP  
-**Databases:** MySQL, Firebase, MongoDB  
-**Other Tools:** Android Studio, Git, GitHub  
-
-**Soft Skills:**  
-Team Leadership · Problem Solving · Communication · Project Management
+### 🤝 Soft Skills
+- Team Leadership  
+- Problem Solving  
+- Communication  
+- Project Management  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (Progressive Learning Path)
 
-### 📘 CO Attainment Calculation System
+### 📘 1. CO Attainment Calculation System  
 Web-based platform for calculating **Course Outcome (CO) attainment** for MSBTE diploma courses.  
-Features **CO–PO mapping**, automated calculations, secure **MySQL storage**, and detailed analytics to support **NBA documentation**.  
-**Tech:** PHP, MySQL, XAMPP, HTML/CSS, JavaScript  
+Includes **CO–PO mapping**, automated calculations, secure database storage, and analytics to support NBA documentation.  
+
+🔗 **Live Demo:** http://attainmentsystem.page.gd  
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
-### 🛒 Campus Cart — Campus Marketplace Platform
-A full-featured web application enabling students to **buy, sell, and manage products** within the college community.  
-Includes **secure authentication**, admin panel, messaging system, responsive listings, and analytics.  
+### 🤖 2. Yatra AI – Tourism Recommendation System  
+An **AI-powered tourism recommendation system** that suggests destinations based on:
+- User interests  
+- Location  
+- Budget  
+- Number of days  
+- Group type  
+
+Generates a **detailed travel plan** with:
+- Destination suggestions  
+- Day-wise itineraries  
+- Activity recommendations  
+
+🔗 **Live Demo:** https://yatra-ai-tourism.vercel.app/  
+**Tech:** React, TypeScript, Supabase, AI Tools  
+
+---
+
+### 🛒 3. Campus Cart – College Marketplace Platform  
+A full-featured **college marketplace web app** enabling students to **buy, sell, and manage products**.  
+Includes authentication, admin panel, messaging system, responsive UI, and analytics.  
+
+🔗 **Live Demo:** http://campuscart.page.gd  
 **Tech:** PHP, MySQL, Bootstrap 5, HTML, CSS, JavaScript  
 
 ---
 
-### 🧽 Scrubbers Sales & Expense Management System
-Custom-built system for tracking **sales and expenses** of a stainless steel scrubber business.  
-Provides **monthly/yearly reports** and analytics for better decision-making.  
+### 🌸 4. Pushpa Market – Flower Selling Platform  
+A **multi-role e-commerce platform** for flower selling with:
+- 👤 Users  
+- 🌼 Florists  
+- 🛠️ Admin  
+
+Supports product listings, order management, and role-based access.  
+
+🔗 **Live Demo:** https://pushpa-market.vercel.app/  
+**Tech:** Web Technologies  
+
+---
+
+### 🧽 5. Scrubbers Sales & Expense Management System  
+A business-focused system to track **sales and expenses** for a stainless steel scrubber business.  
+Provides **monthly/yearly reports**, analytics, and insights.  
+
+🔗 **Live Demo:** https://scrubbers-sales-management.onrender.com/  
 **Tech:** Node.js, MongoDB  
 
 ---
 
-### 🤖 Yatra AI
-An AI-based project focused on **smart assistance for travel-related queries**, designed to explore AI integration with real-world applications.  
-**Tech:** AI concepts, Web Technologies  
+### 📅 6. CS–IT Timetable Management App  
+A timetable management system for **CS & IT departments** where:
+- 👨‍🎓 Students can view timetables  
+- 👩‍🏫 Faculty can update schedules  
+
+Mobile-friendly and simple for academic use.  
+
+🔗 **Live Demo:** http://timetablecsit.ct.ws/  
+**Tech:** Web Technologies / Android WebView  
 
 ---
 
-### 🌸 Pushpa Market
-A modern web application designed for managing and showcasing products with a clean UI and responsive experience.  
-**Live Demo:** https://pushpa-market.vercel.app/  
+### 💬 7. WhatsApp Clone (Android)  
+An Android chat application clone focusing on **UI design and authentication**.  
+Implemented login and chat UI as part of Android development learning.  
 
----
-
-### 💬 WhatsApp Clone (Android)
-Developed frontend UI and implemented **user authentication** for an Android chat application.  
 **Tech:** Java, Android, Firebase  
 
 ---
@@ -94,10 +136,10 @@ Developed frontend UI and implemented **user authentication** for an Android cha
 **Swara Infotech, Islampur**  
 *June 2024 – July 2024*
 
-- Developed Android applications following system design principles  
-- Integrated **Firebase** for backend services  
-- Improved UI/UX and optimized performance  
-- Debugged applications under senior developer guidance  
+- Developed Android apps using modern UI/UX principles  
+- Integrated Firebase services  
+- Debugged and optimized performance  
+- Worked under senior developer mentorship  
 
 ---
 
@@ -105,21 +147,21 @@ Developed frontend UI and implemented **user authentication** for an Android cha
 
 - 👑 **Student President**, Computer Engineering Students Association  
   *RIT Islampur (2023–2024)*  
-  - Led teams to organize technical events, workshops, and coding competitions  
+  - Led teams for technical events, workshops, and coding competitions  
 
 - 🤝 **Member**, Library & Discipline Committees  
-  - Volunteered and led multiple technical and non-technical events  
+  - Organized and volunteered in technical and non-technical events  
 
 ---
 
 ## 📈 Currently Learning
 
 - Advanced React & Backend APIs  
-- System Design Basics  
-- Scalable Web & Android Applications  
+- System Design Fundamentals  
+- AI-integrated Web Applications  
 
 ---
 
 ## ⭐ Thank You for Visiting!
 
-If you like my work, feel free to **connect with me** or ⭐ **star my repositories**.
+Feel free to explore my projects, connect with me, or ⭐ star my repositories if you like my work.
