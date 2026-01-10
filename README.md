@@ -92,6 +92,7 @@ This system aims to serve **faculty members Maharashtra wide**, simplifying COâ€
 - Strong foundation for expansion into **state-level academic analytics platforms**
 
 ðŸ”— **Live:** http://attainmentsystem.page.gd  
+
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
