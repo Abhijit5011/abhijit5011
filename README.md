@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Abhijit Deshmukh — Aspiring Software Engineer 👨‍💻</strong></h1>
+<h1 align="center"><strong>Abhijit Deshmukh — Computer Engineer 👨‍💻</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Full+Stack+Engineer;AI+Tools+Expert+%7C+Web+%26+Android+Developer;Building+Real-World+Scalable+Applications"/>
