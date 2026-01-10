@@ -26,7 +26,7 @@
 ---
 
 ## 🎓 Education
-- **B.Tech in Computer Engineering**  
+
 - **B.E in Computer Engineering**  
 Dr. D. Y. Patil Institute of Technology, Pimpri  
 *2025 – Present*
@@ -74,10 +74,10 @@ Rajarambapu Institute of Technology, Islampur
 ---
 ## 🚀 Projects (Progressive Learning Path)
 
-### 📘 CO Attainment Calculation System *(Major Flagship Project)*  
+### 📘 CO Attainment Calculation System 
 A large-scale academic platform designed to **automate Course Outcome (CO) attainment calculation** for **MSBTE diploma institutes across Maharashtra**.
 
-This system aims to serve **faculty members statewide**, simplifying CO–PO mapping, attainment calculations, and report generation required for **academic audits and quality assurance**.
+This system aims to serve **faculty members Maharashtra wide**, simplifying CO–PO mapping, attainment calculations, and report generation required for **academic audits and quality assurance**.
 
 #### 🔹 Key Highlights
 - Automated **CO–PO mapping** and attainment calculations
@@ -101,7 +101,7 @@ An intelligent **AI-powered tourism recommendation platform** that suggests trav
 
 The system generates **personalized, day-wise travel itineraries**, helping users plan trips efficiently without manual research.
 
-- Smart destination recommendations using AI-driven logic  
+- Smart destination recommendations using AI-driven logic and GenAI API  
 - Auto-generated itineraries with activities and travel flow  
 - Scalable frontend built with **React & TypeScript**  
 - Backend and data management using **Supabase**  
@@ -157,7 +157,6 @@ Android chat application clone focused on **UI design and user authentication**.
 - Improved **UI/UX** and optimized application performance
 - Debugged and enhanced features under **senior developer mentorship**
 
----
 
 ### 🌐 Member Lead  
 **GDG DIT (Google Developer Group – DIT)**  
@@ -169,7 +168,7 @@ Android chat application clone focused on **UI design and user authentication**.
 ---
 
 ## 🏆 Leadership & Activities
-- 👑 **Student President**, Computer Engineering Students Association (2023–2024)  
+- 👑 **Student President**- Computer Engineering Students Association (2023–2024)  
 - Organized technical events, workshops, and coding competitions  
 - Member of Library & Discipline Committees  
 
