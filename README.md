@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/abhijitdeshmukh501"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
 <a href="https://drive.google.com/file/d/1N9lqt70cvk1a9azcEv2noI0C69tBnhl6/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
 <a href="mailto:abhijitdeshmukh501@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&style=for-the-badge"></a>
-<a href="https://github.com/Abhijit5011"><img src="https://img.shields.io/github/followers/Abhijit5011?label=Follow&style=for-the-badge"></a>
 <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
