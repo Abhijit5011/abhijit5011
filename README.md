@@ -91,7 +91,7 @@ This system aims to serve **faculty members Maharashtra wide**, simplifying CO�
 - Scalable solution with **future potential to be adopted by MSBTE institutes across Maharashtra**
 - Strong foundation for expansion into **state-level academic analytics platforms**
 
-🔗 **Live:** http://attainmentsystem.page.gd  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](http://attainmentsystem.page.gd) 
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
 
@@ -106,8 +106,7 @@ The system generates **personalized, day-wise travel itineraries**, helping user
 - Auto-generated itineraries with activities and travel flow  
 - Scalable frontend built with **React & TypeScript**  
 - Backend and data management using **Supabase**
-- 
-🔗 **Link:** https://yatra-ai-tourism.vercel.app/
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://yatra-ai-tourism.vercel.app/) 
 
 **Tech:** React, TypeScript, Supabase, GenAI API  
@@ -126,7 +125,7 @@ The system allows students to securely trade products such as books, gadgets, an
 - Messaging system for buyer–seller communication  
 - Fully responsive design for mobile and desktop  
 
-🔗 **Live:** http://campuscart.page.gd  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](http://campuscart.page.gd)
 
 **Tech:** PHP, MySQL, Bootstrap, HTML, CSS, JavaScript  
 
@@ -141,7 +140,7 @@ The platform simplifies product management and order handling while offering a s
 - Clean, mobile-friendly and responsive UI  
 - Designed for scalability and future integrations (payments, delivery tracking)  
 
-🔗 **Live:** https://pushpa-market.vercel.app/  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-pink?style=for-the-badge)](https://pushpa-market.vercel.app/)  
 
 **Tech:** React, TypeScript, Supabase, Vercal  
 
@@ -157,7 +156,7 @@ The system helps track **sales, expenses, and profit reports**, providing better
 - Simple, business-friendly interface  
 - Improved accuracy and transparency in records  
 
-🔗 **Live:** https://scrubbers-sales-management.onrender.com/  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-yellow?style=for-the-badge)](https://scrubbers-sales-management.onrender.com/)  
 
 **Tech:** React, Node, MongoDB, Render
 
@@ -168,7 +167,7 @@ A web-based timetable management system developed **for the CS & IT departments 
 
 The system enables **students to view updated timetables online** and **faculty to manage and update schedules**, reducing confusion and dependency on printed notices.
 
-🔗 **Live:** http://timetablecsit.ct.ws/  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge)](http://timetablecsit.ct.ws/)  
 
 **Tech:** PHP, HTML, CSS, JS, MySQL, Android Studio  
 
