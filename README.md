@@ -129,7 +129,7 @@ The system allows students to securely trade products such as books, gadgets, an
 
 **Tech:** PHP, MySQL, Bootstrap, HTML, CSS, JavaScript  
 
-
+---
 ### 🌸 4. Pushpa Market – Flower Selling Platform  
 A role-based **flower selling and management platform** designed to connect **customers, florists, and administrators** in a single system.
 
