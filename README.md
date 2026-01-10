@@ -65,11 +65,39 @@ Rajarambapu Institute of Technology, Islampur
 <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
 </td></tr>
 
-<tr><td><strong>Mobile & Tools</strong></td><td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</td></tr>
+<table align="center">
+
+<tr>
+<td><strong>Mobile & Tools</strong></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>&nbsp;
+</td>
+</tr>
+
+<tr>
+<td><strong>AI Tools</strong></td>
+<td>
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/perplexity/perplexity-icon.svg" width="40"/>&nbsp;
+</td>
+</tr>
+
+<tr>
+<td><strong>Deployment Tools</strong></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40"/>
+</td>
+</tr>
+
+</table>
+
 </table>
 
 ---
