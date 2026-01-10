@@ -107,7 +107,7 @@ The system generates **personalized, day-wise travel itineraries**, helping user
 - Scalable frontend built with **React & TypeScript**  
 - Backend and data management using **Supabase**  
 
-🔗 **Live:** https://yatra-ai-tourism.vercel.app/  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://yatra-ai-tourism.vercel.app/) 
 
 **Tech:** React, TypeScript, Supabase, GenAI API  
 
