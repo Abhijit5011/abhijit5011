@@ -107,7 +107,8 @@ The system generates **personalized, day-wise travel itineraries**, helping user
 - Backend and data management using **Supabase**  
 
 🔗 **Live:** https://yatra-ai-tourism.vercel.app/  
-**Tech:** React, TypeScript, Supabase, AI Tools  
+
+**Tech:** React, TypeScript, Supabase, GenAI API  
 
 ---
 
@@ -122,7 +123,8 @@ The platform simplifies product management and order handling while offering a s
 - Designed for scalability and future integrations (payments, delivery tracking)  
 
 🔗 **Live:** https://pushpa-market.vercel.app/  
-**Tech:** Web Technologies  
+
+**Tech:** React, TypeScript, Supabase, Vercal  
 
 ---
 
@@ -130,7 +132,8 @@ The platform simplifies product management and order handling while offering a s
 Business-oriented system for tracking **sales, expenses, and financial reports**.
 
 🔗 **Live:** https://scrubbers-sales-management.onrender.com/  
-**Tech:** Node.js, MongoDB  
+
+**Tech:** React, Node, MongoDB, Render
 
 ---
 
@@ -138,7 +141,8 @@ Business-oriented system for tracking **sales, expenses, and financial reports**
 A simple timetable system where **students can view schedules** and **faculty can update them online**.
 
 🔗 **Live:** http://timetablecsit.ct.ws/  
-**Tech:** Web Technologies / Android WebView  
+
+**Tech:** PHP, HTML, CSS, JS, MySQL, Android Studio  
 
 ---
 
