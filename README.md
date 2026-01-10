@@ -26,7 +26,7 @@
 ---
 
 ## 🎓 Education
-- **B.Tech in Computer Engineering**  
+- **B.E in Computer Engineering**  
   Dr. D. Y. Patil Institute of Technology, Pimpri  
   *2025 – Present*
 
