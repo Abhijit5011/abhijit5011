@@ -33,6 +33,7 @@ Dr. D. Y. Patil Institute of Technology, Pimpri
 
 - **Diploma in Computer Engineering**  
 Rajarambapu Institute of Technology, Islampur
+
 **Score: 92.91%**
 
 ---
