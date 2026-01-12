@@ -1,4 +1,3 @@
-<h1 align="center"><strong>Abhijit Deshmukh: Computer Engineer 👨‍💻</strong></h1>
 <h1 align="center"><strong>Abhijit Deshmukh - Computer Engineer 👨‍💻</strong></h1>
 
 <p align="center">
