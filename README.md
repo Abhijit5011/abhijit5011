@@ -1,3 +1,4 @@
+<h1 align="center"><strong>Abhijit Deshmukh: Computer Engineer 👨‍💻</strong></h1>
 <h1 align="center"><strong>Abhijit Deshmukh - Computer Engineer 👨‍💻</strong></h1>
 
 <p align="center">
@@ -32,7 +33,7 @@ Dr. D. Y. Patil Institute of Technology, Pimpri
 *2025 – Present*
 
 - **Diploma in Computer Engineering**  
-Rajarambapu Institute of Technology, Islampur
+Rajarambapu Institute of Technology, Islampur  
 **Score: 92.91%**
 
 ---
