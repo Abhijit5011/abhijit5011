@@ -243,7 +243,7 @@ Android chat application clone focused on **UI design and user authentication**.
 ---
 
 ## 🏆 Leadership & Activities
-- 👑 **Student President**- Computer Engineering Students Association (2023–2024)  
+-  **Student President**- Computer Engineering Students Association (2023–2024)  
 - Organized technical events, workshops, and coding competitions  
 - Member of Library & Discipline Committees  
 
