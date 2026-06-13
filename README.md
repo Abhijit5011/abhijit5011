@@ -33,12 +33,13 @@
 
 - **B.E in Computer Engineering**  
 Dr. D. Y. Patil Institute of Technology, Pimpri
-**CGPA: 9.27**
+
+ **CGPA: 9.27**
 
 
 - **Diploma in Computer Engineering**  
 Rajarambapu Institute of Technology, Islampur  
-**Score: 92.91%**
+ **Score: 92.91%**
 
 ---
 
