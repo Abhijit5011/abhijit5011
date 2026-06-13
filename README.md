@@ -15,21 +15,26 @@
 
 <img align="right" alt="Coding Illustration" width="340px" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
+
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering Student (B.E)
-- 💻 Full Stack Web & Android Developer
-- 🤖 AI Tools Expert & Prompt Engineer
-- 🚀 Strong foundation from Diploma (92.91%)
-- 🛠️ Passionate about building real-world, scalable systems
-- 👑 Former Student President (Computer Engineering Association)
+
+- 🎓 Computer Engineering Student (B.E.) | CGPA: 9.27
+- 💻 Full-Stack Developer passionate about building real-world solutions
+- 🚀 Developed automation systems that reduce days of manual work to seconds
+- 🤖 Exploring AI, DevOps, and scalable software systems
+- 👑 Former Student President, Computer Engineering Association
+
+> "Don't just learn technology — build something that makes people's work easier."
+
 
 ---
 
 ## 🎓 Education
 
 - **B.E in Computer Engineering**  
-Dr. D. Y. Patil Institute of Technology, Pimpri  
-*2025 – Present*
+Dr. D. Y. Patil Institute of Technology, Pimpri
+**CGPA: 9.27**
+
 
 - **Diploma in Computer Engineering**  
 Rajarambapu Institute of Technology, Islampur  
