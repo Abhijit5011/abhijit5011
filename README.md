@@ -33,7 +33,6 @@
 
 - **B.E in Computer Engineering**  
 Dr. D. Y. Patil Institute of Technology, Pimpri
-
  **CGPA: 9.27**
 
 
