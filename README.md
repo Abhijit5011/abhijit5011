@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/abhijitdeshmukh501"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="https://drive.google.com/file/d/1kGiPQe50TmHMZws5RXYXCpOtJjCOkoiP/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
+<a href="https://drive.google.com/file/d/1YB1UW0Wblp03r_NCa6fyaVUFjoZDK1Em/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
 <a href="mailto:abhijitdeshmukh501@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&style=for-the-badge"></a>
 <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
@@ -98,13 +98,45 @@ This system aims to serve **faculty members Maharashtra wide**, simplifying CO�
 - Scalable solution with **future potential to be adopted by MSBTE institutes across Maharashtra**
 - Strong foundation for expansion into **state-level academic analytics platforms**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](http://attainmentsystem.page.gd) 
 
 **Tech:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
-### 🤖 2. Yatra AI – Tourism Recommendation System  
+
+### 📊 2. SPPU Result Analysis Automation System
+
+An academic automation tool developed to convert official **SPPU ledger PDFs** into comprehensive **Result Analysis Reports** for entire student batches.
+
+The system automatically extracts student performance data and generates structured Excel reports with analytics, summaries, and visual insights, eliminating the need for manual result processing.
+
+- Automated extraction of student records from SPPU ledger PDFs
+- Generates pass percentages, subject-wise analysis, topper lists, and performance summaries
+- Creates visual dashboards and Excel-based analysis sheets automatically
+- Reduced report preparation time from **2–3 days to under 10 seconds**
+- Eliminated repetitive manual calculations and significantly reduced human errors
+
+[![Demo & Results](https://img.shields.io/badge/Demo%20%26%20Results-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1GmY89tYZ77EteV1bgKYQj2Tzor0yHA_Z?usp=sharing)
+
+**Tech:** Python, pdfplumber, Pandas, OpenPyXL, Excel Automation, Data Visualization
+
+---
+
+
+### ⛓️3. Web3Quest – Blockchain Learning Platform
+
+A gamified Web3 learning platform designed to teach blockchain concepts through interactive challenges, quizzes, contests, badges, and real-world blockchain activities.
+
+- Learn blockchain through hands-on tasks instead of traditional theory
+- Gamified experience with rewards, badges, leaderboards, and contests
+- Interactive quizzes and practical Web3 activities to improve engagement
+- Progress tracking system to encourage continuous learning
+
+**Tech:** React, TypeScript, Supabase, Web3
+
+---
+
+### 🤖 4. Yatra AI – Tourism Recommendation System  
 An intelligent **AI-powered tourism recommendation platform** that suggests travel destinations based on **user interests, budget, location, number of days, and group type**.
 
 The system generates **personalized, day-wise travel itineraries**, helping users plan trips efficiently without manual research.
@@ -120,7 +152,7 @@ The system generates **personalized, day-wise travel itineraries**, helping user
 
 ---
 
-### 🛒 3. Campus Cart – College Marketplace Platform  
+### 🛒 5. Campus Cart – College Marketplace Platform  
 A full-stack **campus marketplace platform** developed to solve the problem of **buying and selling items within a college community**.
 
 The system allows students to securely trade products such as books, gadgets, and daily-use items without relying on external platforms.
@@ -137,7 +169,7 @@ The system allows students to securely trade products such as books, gadgets, an
 **Tech:** PHP, MySQL, Bootstrap, HTML, CSS, JavaScript  
 
 ---
-### 🌸 4. Pushpa Market – Flower Selling Platform  
+### 🌸 6. Pushpa Market – Flower Selling Platform  
 A role-based **flower selling and management platform** designed to connect **customers, florists, and administrators** in a single system.
 
 The platform simplifies product management and order handling while offering a smooth and responsive user experience.
@@ -153,7 +185,7 @@ The platform simplifies product management and order handling while offering a s
 
 ---
 
-### 🧽 5. Scrubbers Sales & Expense Management System  
+### 🧽 7. Scrubbers Sales & Expense Management System  
 A custom-built business management system developed **for my father’s stainless steel scrubber business** to digitize daily operations.
 
 The system helps track **sales, expenses, and profit reports**, providing better financial visibility and reducing manual bookkeeping.
@@ -169,7 +201,7 @@ The system helps track **sales, expenses, and profit reports**, providing better
 
 ---
 
-### 📅 6. CS–IT Timetable Management App  
+### 📅 8. CS–IT Timetable Management App  
 A web-based timetable management system developed **for the CS & IT departments of Rajarambapu Institute of Technology (RIT), Islampur**.
 
 The system enables **students to view updated timetables online** and **faculty to manage and update schedules**, reducing confusion and dependency on printed notices.
@@ -180,7 +212,7 @@ The system enables **students to view updated timetables online** and **faculty 
 
 ---
 
-### 💬 7. WhatsApp Clone (Android)  
+### 💬 9. WhatsApp Clone (Android)  
 Android chat application clone focused on **UI design and user authentication**.
 
 **Tech:** Java, Android, Firebase  
