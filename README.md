@@ -139,6 +139,8 @@ A gamified Web3 learning platform designed to teach blockchain concepts through 
 
 **Tech:** React, TypeScript, Supabase, Web3
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://web-three-quest.vercel.app/)
+
 ---
 
 ### 🤖 4. Yatra AI – Tourism Recommendation System  
