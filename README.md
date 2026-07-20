@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/abhijitdeshmukh501"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="https://drive.google.com/file/d/1YB1UW0Wblp03r_NCa6fyaVUFjoZDK1Em/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
+<a href="https://drive.google.com/file/d/1C6M8wEM0jKO346wgiu_sN0tc1XaXaa8c/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
 <a href="mailto:abhijitdeshmukh501@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&style=for-the-badge"></a>
 <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
