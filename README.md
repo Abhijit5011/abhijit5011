@@ -139,9 +139,9 @@
 <a href="#"><img src="https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"></a>
 </div>
 
-<p>A centralized academic automation platform for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes.</p>
+<p><strong>A centralized academic automation platform to evaluate, map, and manage CO/PO/PSO attainments, assessment analytics for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes.</strong></p>
 
-<h3>⚡ Key Features & Impact</h3>
+<h3>Key Features & Impact</h3>
 <ul>
     <li><strong>Automated Workflows:</strong> Streamlines CO-PO attainment calculations and report generation, reducing manual effort by 95%.</li>
     <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes.</li>
@@ -152,10 +152,12 @@
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223619.png" width="100%"/></td>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223651.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223919.png" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223708.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20224036.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20224414.png" width="100%"/></td>
+
 </tr>
 </table>
 
