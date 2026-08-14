@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijit+Deshmukh;AI-Driven+Software+Developer;Full-Stack+Engineer+%7C+Automation+Builder;Turning+manual+workflows+into+seconds" alt="Typing SVG" />
-
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./Abhijit.png">
+<source media="(prefers-color-scheme: light)" srcset="./Abhijit2.png">
+<img src="./Abhijit2.png" alt="ABHIJIT DESHMUKH — Attainment System Developer" width="100%"></picture></p>
 <br/>
 
 ### AI-Driven Software Developer · SGRAMX Intern · Computer Engineering Student
