@@ -146,7 +146,10 @@
     <li><strong>Automated Workflows:</strong> Streamlines CO-PO attainment calculations and report generation, reducing manual effort by 95%.</li>
     <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes.</li>
     <li><strong>Standards Aligned:</strong> Designed specifically to meet MSBTE and NBA-style outcome-based education standards.</li>
-    <li><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript</li>
+    <li>
+      <strong>⚙️ Tech Stack:</strong>
+      <code>PHP</code> · <code>MySQL</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code>
+    </li>
 </ul>
 
 <table>
