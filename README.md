@@ -131,33 +131,34 @@
 
 <br/>
 
-### CO-PO Attainment Calculation System 
+### 1. CO-PO Attainment Calculation System 
 
-<p>A centralized academic automation platform for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes[cite: 1].</p>
-
-<h3>⚡ Key Features & Impact</h3>
-<ul>
-    <li><strong>Automated Workflows:</strong> Streamlines CO-PO attainment calculations and report generation, reducing manual effort by 95%[cite: 1].</li>
-    <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes[cite: 1].</li>
-    <li><strong>Standards Aligned:</strong> Designed specifically to meet MSBTE and NBA-style outcome-based education standards[cite: 1].</li>
-    <li><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript[cite: 1]</li>
-</ul>
-
-<h3>📸 Previews</h3>
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223619.png" width="100%"/></td>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223651.png" width="100%"/></td>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223708.png" width="100%"/></td>
-</tr>
-</table>
-
-<h3>🔗 Links</h3>
-<div align="center">
+<div align="left">
 <a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub%20Repository-Add%20Link-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
 <a href="#"><img src="https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"></a>
 </div>
+
+<p>A centralized academic automation platform for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes.</p>
+
+<h3>⚡ Key Features & Impact</h3>
+<ul>
+    <li><strong>Automated Workflows:</strong> Streamlines CO-PO attainment calculations and report generation, reducing manual effort by 95%.</li>
+    <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes.</li>
+    <li><strong>Standards Aligned:</strong> Designed specifically to meet MSBTE and NBA-style outcome-based education standards.</li>
+    <li><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript</li>
+</ul>
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223619.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223651.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223708.png" width="100%"/></td>
+</tr>
+</table>
+
 ---
 
 ### 🛡️ PayPilot — AI-Powered, Zero-Trust Payment Authorization Middleware
