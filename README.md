@@ -5,17 +5,21 @@
 <img src="./Abhijit2.png" alt="ABHIJIT DESHMUKH — Attainment System Developer" width="100%"></picture></p>
 <br/>
 
-### AI-Driven Software Developer · SGRAMX Intern · Computer Engineering Student
-
-**I build full-stack products that replace manual, hours-of-work processes with automated systems —**
-**from a zero-trust AI payment middleware to an e-commerce platform to a PDF-to-report pipeline that runs in seconds.**
+### AI-Driven Software Developer · SGRAMX Intern · Computer Engineer
 
 <br/>
 
-[![Portfolio Repo](https://img.shields.io/badge/GitHub-Abhijit5011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhijit5011)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijitdeshmukh501-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijitdeshmukh501)
-[![Email](https://img.shields.io/badge/Email-abhijitdeshmukh501%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijitdeshmukh501@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1C6M8wEM0jKO346wgiu_sN0tc1XaXaa8c/view)
+<p align="center">
+  <a href="https://github.com/Abhijit5011"><img src="https://img.shields.io/badge/GitHub-Abhijit5011-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/abhijitdeshmukh501"><img src="https://img.shields.io/badge/LinkedIn-Abhijit%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:abhijitdeshmukh501@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="tel:+918479808281"><img src="https://img.shields.io/badge/Phone-8479808281-25D366?style=for-the-badge&logo=phone&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile%20Views&color=0A66C2&style=for-the-badge">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit5011&theme=default&hide_border=true" alt="Total Contributions">
+</p>
 
 <sub>📍 Pimpri, Pune, India</sub>
 
