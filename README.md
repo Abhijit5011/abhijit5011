@@ -25,31 +25,10 @@
 
 <br/>
 
-## About Me
-
-I'm a Computer Engineering student (CGPA 9.27) and full-stack developer who likes to ship things that solve a real problem for a real person — a marketplace for my college, an inventory system for my father's business, a middleware that stops an AI agent from ever touching real money. My work spans **React/TypeScript front ends, PHP and Node.js back ends, Supabase/MongoDB/MySQL data layers, and n8n-based automation pipelines**, and I'm currently going deeper into agentic AI systems and scalable system design.
-
-- 🎓 B.E. Computer Engineering — CGPA **9.27**
-- 💼 Currently an **AI-Driven Software Developer Intern @ SGRAMX**
-- 🚀 Built automation systems that cut multi-day manual workflows down to seconds
-- 🤖 Exploring agentic AI, LLM-orchestration, and scalable backend architecture
-- 👑 Former Student President, Computer Engineering Students Association
-- 🛠️ 9 shipped full-stack projects — 6 of them deployed and live in production today
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhijit5011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit5011&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit5011&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<sub>Stats render live from the GitHub API — numbers update automatically, nothing here is hard-coded.</sub>
+<p align="center">
+  <strong><em>“I’m not here to clone tutorials or collect green squares.<br>
+  I find real problems, engineer real solutions, and ship them where they actually matter.”</em></strong>
+</p>
 
 <br/>
 
