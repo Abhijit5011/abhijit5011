@@ -18,8 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile%20Views&color=0A66C2&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-Loading...-0A66C2?style=for-the-badge" alt="Total Contributions">
-<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/Abhijit5011/abhijit5011?label=TOTAL%20CONTRIBUTIONS&style=for-the-badge&color=0A66C2" alt="Total Contributions"><p align="center">
   <strong>📍 PIMPRI, PUNE, MAHARASHTRA, INDIA</strong>
 </p>
 </div>
