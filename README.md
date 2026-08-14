@@ -322,8 +322,7 @@ A role-based flower-selling and management platform with AI-assisted product con
 <tr>
 <td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Pushpa%20Market/Screenshot%202026-01-02%20185201.png" width="100%"/></td>
 <td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Pushpa%20Market/Screenshot_2026-08-14-23-33-12-662_com.gallery.player.jpg" width="100%"/></td>
-</tr>
-<tr>
+
 <td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Pushpa%20Market/Screenshot_2026-08-14-23-33-38-756_com.gallery.player.jpg" width="100%"/></td>
 <td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Pushpa%20Market/Screenshot_2026-08-14-23-33-55-060_com.gallery.player.jpg" width="100%"/></td>
 </tr>
