@@ -14,7 +14,6 @@
   <a href="https://linkedin.com/in/abhijitdeshmukh501"><img src="https://img.shields.io/badge/LinkedIn-Abhijit%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abhijitdeshmukh501@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="tel:+918479808281"><img src="https://img.shields.io/badge/Phone-8479808281-25D366?style=for-the-badge&logo=phone&logoColor=white"></a>
-</p>
   <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile%20Views&color=0A66C2&style=for-the-badge">
   <strong>📍 PIMPRI, PUNE, MAHARASHTRA, INDIA</strong>
 </p>
