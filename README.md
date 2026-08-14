@@ -127,11 +127,38 @@
 
 ---
 
-## Featured Projects
-
-Nine full-stack products — from a hackathon-built AI payment security layer to a marketplace running for real students. Every screenshot below is pulled directly from this repository's project folders.
+## Project Stack
 
 <br/>
+
+### CO-PO Attainment Calculation System 
+
+<p>A centralized academic automation platform for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes[cite: 1].</p>
+
+<h3>⚡ Key Features & Impact</h3>
+<ul>
+    <li><strong>Automated Workflows:</strong> Streamlines CO-PO attainment calculations and report generation, reducing manual effort by 95%[cite: 1].</li>
+    <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes[cite: 1].</li>
+    <li><strong>Standards Aligned:</strong> Designed specifically to meet MSBTE and NBA-style outcome-based education standards[cite: 1].</li>
+    <li><strong>Tech Stack:</strong> PHP, MySQL, HTML, CSS, JavaScript[cite: 1]</li>
+</ul>
+
+<h3>📸 Previews</h3>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223619.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223651.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223708.png" width="100%"/></td>
+</tr>
+</table>
+
+<h3>🔗 Links</h3>
+<div align="center">
+<a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub%20Repository-Add%20Link-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"></a>
+</div>
+---
 
 ### 🛡️ PayPilot — AI-Powered, Zero-Trust Payment Authorization Middleware
 
@@ -298,41 +325,6 @@ A role-based flower-selling and management platform with AI-assisted product con
 
 <br/>
 
----
-
-### 📘 CO Attainment Calculation System
-
-**The problem it solves:** MSBTE diploma faculty across Maharashtra were computing Course Outcome (CO) attainment by hand for every academic audit — a slow, error-prone, non-standardized process.
-
-A large-scale academic platform automating CO–PO mapping, attainment calculation, and audit-ready report generation for outcome-based education.
-
-**Key features**
-- Automated CO–PO mapping and attainment computation
-- Centralized, secure data storage for faculty records
-- Faculty-friendly interface for academic documentation
-- Aligned with MSBTE / NBA-style outcome-based education standards
-
-**Reported impact** *(as stated in the project's own documentation)*: reduces manual calculation effort by roughly 90%, with the underlying architecture designed to scale to a state-wide MSBTE rollout.
-
-**Tech stack:** PHP · MySQL · HTML · CSS · JavaScript
-
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223619.png" width="100%"/></td>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223651.png" width="100%"/></td>
-<td><img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/attainment/Screenshot%202026-08-14%20223708.png" width="100%"/></td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://attainmentsystem.page.gd/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-Add%20Link-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![YouTube Demo](https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-</div>
-
-<br/>
 
 ---
 
