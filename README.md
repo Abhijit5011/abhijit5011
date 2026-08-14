@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="tel:+918479808281"><img src="https://img.shields.io/badge/Phone-8479808281-25D366?style=for-the-badge&logo=phone&logoColor=white"></a
+  <a href="tel:+918479808281"><img src="https://img.shields.io/badge/Phone-8479808281-25D366?style=for-the-badge&logo=phone&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile%20Views&color=0A66C2&style=for-the-badge">
 <p align="center">
   <strong>📍 PIMPRI, PUNE, MAHARASHTRA, INDIA</strong>
