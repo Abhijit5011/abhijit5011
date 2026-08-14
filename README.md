@@ -18,11 +18,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhijit5011&label=Profile%20Views&color=0A66C2&style=for-the-badge">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit5011&theme=default&hide_border=true" alt="Total Contributions">
+  <img src="https://streak-stats.vercel.app?user=Abhijit5011&theme=default&hide_border=true" alt="GitHub Streak"></p>
+
+<p align="center">
+  <strong>📍 PIMPRI, PUNE, MAHARASHTRA, INDIA</strong>
 </p>
-
-<sub>📍 Pimpri, Pune, India</sub>
-
 </div>
 
 <br/>
