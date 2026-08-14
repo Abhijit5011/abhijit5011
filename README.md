@@ -109,6 +109,14 @@
 </tr>
 
 <tr>
+<td><strong>☁️ Cloud & Infrastructure</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
 <td><strong>🛠️ Tools & Platforms</strong></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
