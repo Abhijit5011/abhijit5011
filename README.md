@@ -147,8 +147,8 @@
     <li><strong>Rapid Reporting:</strong> Generates accurate, audit-ready compliance reports in under 10 minutes.</li>
     <li><strong>Standards Aligned:</strong> Designed specifically to meet MSBTE and NBA-style outcome-based education standards.</li>
     <li>
-      <strong>⚙️ Tech Stack:</strong>
-      <code>PHP</code> · <code>MySQL</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code>
+      <strong>Tech Stack:</strong>
+      <code>PHP</code> · <code>MySQL</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> .<code>Infinityfree</code>
     </li>
 </ul>
 
