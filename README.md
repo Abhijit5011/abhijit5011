@@ -134,9 +134,9 @@
 ### 1. CO-PO Attainment Calculation System 
 
 <div align="left">
-<a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub%20Repository-Add%20Link-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"></a>
+<a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+<a href="#"><img src="https://img.shields.io/badge/GitHub%20Repo-Add%20Link-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube%20Demo-Add%20Link-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"></a>
 </div>
 
 <p><strong>A centralized academic automation platform to evaluate, map, and manage CO/PO/PSO attainments, assessment analytics for MSBTE diploma faculty across Maharashtra, supporting all subject types and evaluation schemes.</strong></p>
