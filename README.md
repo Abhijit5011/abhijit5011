@@ -146,7 +146,6 @@
 
 <div align="left">
 <a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-<a href="#"><img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
 <a href="https://youtu.be/8I4vKJk-RH4"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"></a>
 </div>
 
@@ -770,60 +769,46 @@ A production-grade business management system built for a real stainless-steel s
 </tr>
 </table>
 
-
+---
 
 ## Education
 
 
-<table >
+<h2 align="center">Education Journey</h2>
+
+<table align="center">
 <tr>
-<td width="100%" valign="top">
+<th>B.E. Computer Engineering</th>
+<th>Diploma in Computer Engineering</th>
+<th>Secondary School Certificate</th>
 
-<h3>B.E. Computer Engineering</h3>
-
-<strong>Dr. D. Y. Patil Institute of Technology, Pimpri</strong>
-<br>
-<code>2024 – Present</code>
-
-• <strong>Academic Performance:</strong> <strong>9.27 CGPA</strong><br>
-• <strong>Core Strengths:</strong> <strong>Computer Networks · DSA · OOP · DBMS · Python</strong><br>
-• <strong>Engineering Focus:</strong> AI Systems · Agentic AI · Full-Stack Development · System Design · Cloud Computing · Automation 
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" valign="top">
-
-<h3>Diploma in Computer Engineering</h3>
-
-<strong>Rajarambapu Institute of Technology, Islampur</strong>
-<br>
-<code>2021 – 2024</code>
-
-• <strong>Academic Performance:</strong> <strong>92.91%</strong><br>
-• <strong>Achievement:</strong> <strong>1st Rank Diploma in Computer Department</strong><br>
-
-
-</td>
 </tr>
 <tr>
-<td width="100%" valign="top">
 
-<h3>SSC - Secondary School Certificate</h3>
-
-<strong>Krantisinha Nana Patil English Medium School, Kundal</strong>
-<br>
-<code>2020-21</code>
-
-
-• <strong>Academic Performance:</strong> <strong>96.80%</strong><br>
-• <strong>Achievement:</strong> <strong>1st Rank in School</strong><br>
-
-
+<td align="center" width="33%"><br>
+  <strong>Dr. D. Y. Patil Institute of Technology, Pimpri</strong><br>
+  <code>2024 – Present</code><br><br>
+  <strong>9.27 CGPA</strong><br>
+  <sub>AI Systems · Agentic AI · Full-Stack · System Design · Cloud · Automation</sub>
 </td>
+<td align="center" width="33%">
+  <strong> Rajarambapu Institute of Technology, Islampur</strong><br>
+  <code>2021 – 2024</code><br><br>
+  <strong>92.91%</strong><br>
+  <sub><strong>1st Rank</strong> - Computer Engineering Department</sub>
+</td>
+
+<td align="center" width="33%">
+  <strong>Krantisinha Nana Patil English Medium School, Kundal</strong><br>
+  <code>2020 – 2021</code><br><br>
+  <strong>96.80%</strong><br>
+  <sub><strong>1st Rank</strong> - School Topper</sub>
+</td>
+
 </tr>
 </table>
+
+---
 
 ## GitHub Analytics
 
@@ -845,28 +830,31 @@ A production-grade business management system built for a real stainless-steel s
 
 <table >
 <tr>
+<th>AI Engineering </th>
+<th>Software Engineering </th>
+<th>Advanced Development </th>
+<th>Emerging Technologies </th>
+
+</tr>
+<tr>
 <td align="center" width="25%">
-<strong>AI Engineering</strong><br><br>
 <code>Agentic AI</code><br>
 <code>LLM Orchestration</code><br>
 <code>AI Automation</code>
 </td>
 
 <td align="center" width="25%">
-<strong>Software Engineering</strong><br><br>
 <code>System Design</code><br>
 <code>Scalable Architecture</code><br>
 </td>
 
 <td align="center" width="25%">
-<strong>Advanced Development</strong><br><br>
 <code>Python</code><br>
 <code>DSA</code><br>
 <code>Cloud Architecture</code>
 </td>
 
 <td align="center" width="25%">
-<strong>Emerging Technologies</strong><br><br>
 <code>MCP</code><br>
 <code>AI Agents</code><br>
 <code>LLM Systems</code>
