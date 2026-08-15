@@ -775,7 +775,7 @@ A production-grade business management system built for a real stainless-steel s
 ## Education
 
 
-<table>
+<table >
 <tr>
 <td width="100%" valign="top">
 
@@ -787,7 +787,7 @@ A production-grade business management system built for a real stainless-steel s
 
 • <strong>Academic Performance:</strong> <strong>9.27 CGPA</strong><br>
 • <strong>Core Strengths:</strong> <strong>Computer Networks · DSA · OOP · DBMS · Python</strong><br>
-• <strong>Engineering Focus: AI Systems · Full-Stack Development · Software Engineering · System Design</strong>
+• <strong>Engineering Focus:</strong> AI Systems · Agentic AI · Full-Stack Development · System Design · Cloud Computing · Automation 
 
 </td>
 </tr>
@@ -825,14 +825,16 @@ A production-grade business management system built for a real stainless-steel s
 </tr>
 </table>
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhijit5011&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit5011&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Abhijit5011">
+    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Abhijit5011&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Abhijit5011">
+    <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhijit5011&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages">
+  </a>
 </p>
-
-<h3 align="center">Contribution Activity</h3>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijit5011&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
