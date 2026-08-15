@@ -830,7 +830,7 @@ A production-grade business management system built for a real stainless-steel s
 ## Currently Exploring
 
 
-<table >
+<table align="center" >
 <tr>
 <th>AI Engineering </th>
 <th>Software Engineering </th>
