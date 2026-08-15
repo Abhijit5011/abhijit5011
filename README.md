@@ -416,7 +416,7 @@ A campus-native C2C marketplace engineered to enable trusted peer-to-peer buying
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://youtu.be/_OT0AnijUjI">
-    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
 
