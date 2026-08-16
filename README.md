@@ -149,6 +149,9 @@
 <a href="https://github.com/Abhijit5011/Attainment-System">
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
 </a>
+<a href="https://drive.google.com/drive/folders/1DK3MRRM8kgoc2DmNAF1BV96uJxoA5PDZ?usp=sharing">
+    <img src="https://img.shields.io/badge/Output%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Output Demo">
+</a>
 <a href="https://youtu.be/8I4vKJk-RH4"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"></a>
 </div>
 
