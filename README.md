@@ -146,6 +146,9 @@
 
 <div align="left">
 <a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+<a href="https://github.com/Abhijit5011/Attainment-System">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
+</a>
 <a href="https://youtu.be/8I4vKJk-RH4"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"></a>
 </div>
 
