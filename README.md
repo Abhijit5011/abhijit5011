@@ -765,8 +765,6 @@ A production-grade business management system built for a real stainless-steel s
 
 <strong>Internshala</strong> &nbsp; | &nbsp; <code>Aug 2026 – Present</code>
 
-<br><br>
-
 • <strong>Student Outreach:</strong> Helping students discover internships, skill-building programs, and career opportunities.<br>
 • <strong>Career Enablement:</strong> Connecting students with relevant industry opportunities and professional development resources.<br>
 • <strong>Community Engagement:</strong> Promoting career-focused initiatives and encouraging students to participate in learning and employment programs.
