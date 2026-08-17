@@ -800,9 +800,6 @@ GDG DIT &nbsp; | &nbsp; <code>Sep 2025 – Present</code></summary>
 
 ## Education
 
-
-<h2 align="center">Education Journey</h2>
-
 <table align="center">
 <tr>
 <th>B.E. Computer Engineering</th>
