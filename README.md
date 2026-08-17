@@ -733,9 +733,9 @@ A production-grade business management system built for a real stainless-steel s
 <tr>
 <td width="100%" valign="top">
 <details>
-<summary><h3>1. Software Development Intern</h3></summary>
+<summary><h3>1. Software Development Intern</h3>
 
-<strong>SGRAMX · Pune</strong> &nbsp; | &nbsp; <code>Jul 2026 – Present</code>
+<strong>SGRAMX · Pune</strong> &nbsp; | &nbsp; <code>Jul 2026 – Present</code></summary>
 
 
 
@@ -750,10 +750,10 @@ A production-grade business management system built for a real stainless-steel s
 
 <tr>
 <td width="100%" valign="top">
-
+<details><summary>
 <h3>2. Android Development Intern</h3>
 
-<strong>Swara Infotech · Islampur</strong> &nbsp; | &nbsp; <code>Jun 2024 – Jul 2024</code>
+<strong>Swara Infotech · Ishwarpur</strong> &nbsp; | &nbsp; <code>Jun 2024 – Jul 2024</code></summary>
 
 
 
@@ -761,37 +761,37 @@ A production-grade business management system built for a real stainless-steel s
 • <strong>Performance:</strong> Optimized application behavior and improved runtime performance.<br>
 • <strong>Debugging:</strong> Identified, analyzed, and resolved application issues during development.<br>
 • <strong>User Experience:</strong> Enhanced UI flows and overall application usability.
-
+</details>
 </td>
 </tr>
 
 <tr>
 <td width="100%" valign="top">
-
+<details><summary>
 <h3>3. Internshala Student Partner</h3>
 
-<strong>Internshala</strong> &nbsp; | &nbsp; <code>Aug 2026 – Present</code>
+<strong>Internshala</strong> &nbsp; | &nbsp; <code>Aug 2026 – Present</code></summary>
 
 • <strong>Student Outreach:</strong> Helping students discover internships, skill-building programs, and career opportunities.<br>
 • <strong>Career Enablement:</strong> Connecting students with relevant industry opportunities and professional development resources.<br>
 • <strong>Community Engagement:</strong> Promoting career-focused initiatives and encouraging students to participate in learning and employment programs.
-
+</details>
 </td>
 </tr>
 
 <tr>
 <td width="100%" valign="top">
-
+<details><summary>
 <h3>4. Member Lead — App & Web Development</h3>
 
-<strong>GDG DIT</strong> &nbsp; | &nbsp; <code>Sep 2025 – Present</code>
+<strong>GDG DIT</strong> &nbsp; | &nbsp; <code>Sep 2025 – Present</code></summary>
 
 
 • <strong>Technical Leadership:</strong> Leading App and Web Development initiatives within the developer community.<br>
 • <strong>Code Reviews:</strong> Reviewing implementations and promoting clean, maintainable development practices.<br>
 • <strong>Technical Workshops:</strong> Contributing to workshops, coding sessions, and hands-on learning activities.<br>
 • <strong>Developer Collaboration:</strong> Coordinating with members on technical projects and peer-learning initiatives.
-
+</details>
 </td>
 </tr>
 </table>
