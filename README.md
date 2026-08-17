@@ -142,8 +142,8 @@
 ## Project Stack
 
 
-
-### 1. CO-PO Attainment Calculation System 
+<details>
+<summary><b>1. CO-PO Attainment Calculation System</b></summary>
 
 <div align="left">
 <a href="https://attainmentsystem.page.gd/"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
@@ -185,7 +185,7 @@
 
 </tr>
 </table>
-
+</details>
 ---
 
 ### 2. PayPilot - AI Powered, Zero-Trust Payment Authorization Middleware
