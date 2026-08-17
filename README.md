@@ -281,9 +281,6 @@ The only trusted layer with Stripe credentials, responsible for final validation
 
 </details>
 
-<br/>
-
-
 
 <details>
 <summary><b>3. SPPU Result Analysis Automation System</b></summary>
@@ -735,8 +732,8 @@ A production-grade business management system built for a real stainless-steel s
 <table>
 <tr>
 <td width="100%" valign="top">
-
-<h3>1. Software Development Intern</h3>
+<details>
+<summary><h3>1. Software Development Intern</h3></summary>
 
 <strong>SGRAMX · Pune</strong> &nbsp; | &nbsp; <code>Jul 2026 – Present</code>
 
@@ -746,7 +743,7 @@ A production-grade business management system built for a real stainless-steel s
 • <strong>Software Development:</strong> Contributing to feature implementation, debugging, and production-oriented development.<br>
 • <strong>Code Quality:</strong> Refactoring existing codebases and improving maintainability and structure.<br>
 • <strong>Engineering Practices:</strong> Working with documentation, scalable development patterns, and AI-assisted engineering workflows.
-
+</details>
 </td>
 </tr>
 
