@@ -186,9 +186,9 @@
 </tr>
 </table>
 </details>
----
 
-### 2. PayPilot - AI Powered, Zero-Trust Payment Authorization Middleware
+<details>
+<summary><b>2. PayPilot - AI Powered, Zero-Trust Payment Authorization Middleware</b></summary>
 <div align="left">
   <a href="https://paypilot-killswitch.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
@@ -279,12 +279,14 @@ The only trusted layer with Stripe credentials, responsible for final validation
 
 </table>
 
-
+</details>
 
 <br/>
 
----
-### 3. SPPU Result Analysis Automation System
+
+
+<details>
+<summary><b>3. SPPU Result Analysis Automation System</b></summary>
 
 <div align="left">
   <a href="https://drive.google.com/drive/folders/1GmY89tYZ77EteV1bgKYQj2Tzor0yHA_Z?usp=sharing">
@@ -346,10 +348,11 @@ The only trusted layer with Stripe credentials, responsible for final validation
 </td>
 </tr>
 </table>
+</details>
 
----
-
-### 4. Campus Cart - Second-Hand Buying & Selling Platform for Students
+<details>
+  
+<summary><b>4. Campus Cart - Second-Hand Buying & Selling Platform for Students</b></summary>
 <div align="left">
   <a href="https://campuscart.rf.gd/">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
@@ -410,10 +413,11 @@ A campus-native C2C marketplace engineered to enable trusted peer-to-peer buying
 </td>
 </tr>
 </table>
+</details>
 
----
 
-### 5. Web3Quest - Blockchain Learning Platform
+<details>
+<summary><b>5. Web3Quest - Blockchain Learning Platform</b></summary>
 
 <div align="left">
   <a href="https://web-three-quest.vercel.app/">
@@ -474,10 +478,11 @@ A gamified Web3 learning platform that transforms blockchain education from theo
 </td>
 </tr>
 </table>
+</details>
 
----
+<details>
 
-### 6. Yatra AI - Your Smart Travel Partner
+<summary><b>6. Yatra AI - Your Smart Travel Partner</b></summary>
 
 <div align="left">
   <a href="https://yatra-ai-tourism.vercel.app/">
@@ -540,12 +545,12 @@ An AI-first tourism intelligence platform that transforms travel preferences, co
 </td>
 </tr>
 </table>
+  
+</details>
 
-
----
-
-### 7. Electromart - Sponsored by KT Electricals, Tasgaon
-
+<details>
+  
+<summary><b>7. Electromart - Sponsored by KT Electricals, Tasgaon </b></summary>
 <div align="left">
   <a href="https://electromart-kt.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
@@ -609,10 +614,12 @@ A production-oriented e-commerce platform engineered for electronics and electri
 </tr>
 </table>
 
+</details>
 
----
 
-### 8. Pushpa - The Indian Flower Market
+
+<details>
+  <summary><b>8. Pushpa - The Indian Flower Market</b></summary>
 
 <div align="left">
   <a href="https://pushpa-market.vercel.app/">
@@ -668,9 +675,11 @@ A role-driven digital marketplace connecting customers, independent florists, an
 <img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Pushpa%20Market/Screenshot_2026-08-14-23-34-00-686_com.gallery.player.jpg" width="20%" alt="Pushpa Market Products">
 </p>
 
----
+</details>
 
-### 9. Scrubbers Sales & Expense Management System
+<details>
+  
+ <summary><b>9. Scrubbers Sales & Expense Management System</b></summary>
 
 <div align="left">
   <a href="https://scrubbers-sales-management.onrender.com/">
@@ -717,7 +726,7 @@ A production-grade business management system built for a real stainless-steel s
   <img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Scrubber%20Sales%20Management/Screenshot_2026-08-14-22-31-46-425_com.amd.siddhanathscrubbers.jpg" width="20%" alt="Scrubbers Sales Management">
   <img src="https://raw.githubusercontent.com/Abhijit5011/abhijit5011/main/Scrubber%20Sales%20Management/Screenshot_2026-08-14-22-32-07-890_com.amd.siddhanathscrubbers.jpg" width="20%" alt="Scrubbers Analytics">
 </p>
-
+</details>
 
 ---
 
