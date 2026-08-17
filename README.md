@@ -733,7 +733,7 @@ A production-grade business management system built for a real stainless-steel s
 <tr>
 <td width="100%" valign="top">
 <details>
-<summary><h3>1. Software Development Intern</h3>
+<summary><b>1. Software Development Intern</b>
 
 <strong>SGRAMX · Pune</strong> &nbsp; | &nbsp; <code>Jul 2026 – Present</code></summary>
 
@@ -751,7 +751,7 @@ A production-grade business management system built for a real stainless-steel s
 <tr>
 <td width="100%" valign="top">
 <details><summary>
-<h3>2. Android Development Intern</h3>
+<b>2. Android Development Intern</b>
 
 <strong>Swara Infotech · Ishwarpur</strong> &nbsp; | &nbsp; <code>Jun 2024 – Jul 2024</code></summary>
 
@@ -768,7 +768,7 @@ A production-grade business management system built for a real stainless-steel s
 <tr>
 <td width="100%" valign="top">
 <details><summary>
-<h3>3. Internshala Student Partner</h3>
+<b>3. Internshala Student Partner</b>
 
 <strong>Internshala</strong> &nbsp; | &nbsp; <code>Aug 2026 – Present</code></summary>
 
@@ -782,7 +782,7 @@ A production-grade business management system built for a real stainless-steel s
 <tr>
 <td width="100%" valign="top">
 <details><summary>
-<h3>4. Member Lead — App & Web Development</h3>
+<b>4. Member Lead — App & Web Development</b>
 
 <strong>GDG DIT</strong> &nbsp; | &nbsp; <code>Sep 2025 – Present</code></summary>
 
