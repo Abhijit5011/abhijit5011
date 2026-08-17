@@ -735,7 +735,7 @@ A production-grade business management system built for a real stainless-steel s
 <details>
 <summary><b>1. Software Development Intern</b>
 
-<strong>SGRAMX · Pune</strong> &nbsp; | &nbsp; <code>Jul 2026 – Present</code></summary>
+SGRAMX · Pune &nbsp; | &nbsp; <code>Jul 2026 – Present</code></summary>
 
 
 
@@ -753,7 +753,7 @@ A production-grade business management system built for a real stainless-steel s
 <details><summary>
 <b>2. Android Development Intern</b>
 
-<strong>Swara Infotech · Ishwarpur</strong> &nbsp; | &nbsp; <code>Jun 2024 – Jul 2024</code></summary>
+Swara Infotech · Ishwarpur &nbsp; | &nbsp; <code>Jun 2024 – Jul 2024</code></summary>
 
 
 
@@ -770,7 +770,7 @@ A production-grade business management system built for a real stainless-steel s
 <details><summary>
 <b>3. Internshala Student Partner</b>
 
-<strong>Internshala</strong> &nbsp; | &nbsp; <code>Aug 2026 – Present</code></summary>
+Internshala &nbsp; | &nbsp; <code>Aug 2026 – Present</code></summary>
 
 • <strong>Student Outreach:</strong> Helping students discover internships, skill-building programs, and career opportunities.<br>
 • <strong>Career Enablement:</strong> Connecting students with relevant industry opportunities and professional development resources.<br>
@@ -784,7 +784,7 @@ A production-grade business management system built for a real stainless-steel s
 <details><summary>
 <b>4. Member Lead — App & Web Development</b>
 
-<strong>GDG DIT</strong> &nbsp; | &nbsp; <code>Sep 2025 – Present</code></summary>
+GDG DIT &nbsp; | &nbsp; <code>Sep 2025 – Present</code></summary>
 
 
 • <strong>Technical Leadership:</strong> Leading App and Web Development initiatives within the developer community.<br>
